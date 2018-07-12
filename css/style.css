@@ -1,11 +1,15 @@
 body{
   font-size: 1.2em;
 }
+.mt-2{
+  margin-top: 2em;
+}
   img.fire-logo {
     margin-bottom: -20px;
     height: 60px;
     margin-top: 20px;
     margin-right: 7px;
+}
 }
 .zilla{
   font-family: 'Zilla Slab', serif;
