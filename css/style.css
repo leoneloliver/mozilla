@@ -4,6 +4,9 @@ body{
 .mt-2{
   margin-top: 2em;
 }
+.navbar {
+    min-height: 5rem;
+}
   img.fire-logo {
     margin-bottom: -20px;
     height: 60px;
