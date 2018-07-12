@@ -4,10 +4,8 @@ body{
 .mt-2{
   margin-top: 2em;
 }
-.navbar {
-  
-}
-  img.fire-logo {
+@media screen and (min-width: 1088px){.navbar{padding: 15px 0;}}
+img.fire-logo {
     margin-bottom: -20px;
     height: 60px;
     margin-top: 20px;
