@@ -1,4 +1,7 @@
-img.fire-logo {
+body{
+  font-size: 1.2em;
+}
+  img.fire-logo {
     margin-bottom: -20px;
     height: 60px;
     margin-top: 20px;
