@@ -68,7 +68,7 @@ footer svg {
     border-bottom: 1px solid #333 !important;
   }
   .navbar-start a:hover {
-    color: #efefef !important;
+    color: #000 !important;
   }
   div#navbarExampleTransparentExample {
     background: #000 !important;
