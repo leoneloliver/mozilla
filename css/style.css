@@ -49,6 +49,15 @@ footer svg {
     width: 30px;
     margin-right: 5px;
 }
-.image img, .card-image .image{
+.image img{
   width: auto !important;
+  margin-top: 20px;
 }
+.sponsor img{
+  width: 110px;
+}
+.frame-m{
+  border: 10px #dadada solid;
+}
+
+
