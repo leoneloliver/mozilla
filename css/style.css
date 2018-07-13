@@ -59,5 +59,8 @@ footer svg {
 .frame-m{
   border: 10px #dadada solid;
 }
+.extra-padding{
+  padding: 25px 35px !important;
+}
 
 
