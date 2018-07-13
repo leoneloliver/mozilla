@@ -62,5 +62,18 @@ footer svg {
 .extra-padding{
   padding: 25px 35px !important;
 }
+@media screen and (max-width: 1088px){
+  .navbar-start a {
+    color: #fff !important;
+    border-bottom: 1px solid #333 !important;
+  }
+  .navbar-start a:hover {
+    color: #efefef !important;
+  }
+  div#navbarExampleTransparentExample {
+    background: #000 !important;
+  }
+}
+
 
 
